@@ -1,5 +1,7 @@
 # AutoLock Plugin for FM-DX Webservers
-This plugin allows a user to easily lock the tuning of an FM-DX webserver using a URL argument. Unlocking is then automatic as soon as the user logs out.
+This plugin allows a user to easily lock the tuning of an [FM-DX webserver](https://github.com/NoobishSVK/fm-dx-webserver) using a URL argument.
+<b>
+Unlocking is then automatic as soon as the user logs out.
 
 <img width="1917" height="1030" alt="Exemple-AutoLock" src="https://github.com/user-attachments/assets/5768f87e-3191-4b61-8701-85b0ebfbb2a4" />
 
