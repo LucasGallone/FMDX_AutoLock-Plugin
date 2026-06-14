@@ -4,7 +4,7 @@ This plugin allows a user to easily lock the tuning of an FM-DX webserver using 
 <img width="1917" height="1030" alt="Exemple-AutoLock" src="https://github.com/user-attachments/assets/5768f87e-3191-4b61-8701-85b0ebfbb2a4" />
 
 ## How the plugin works
-After installing this plugin, the user can instantly lock their FM-DX server's tuning at any time using the argument `?LockKey=` (case-insensitive), followed by their "Tune" Password (previously configured in the server's administration interface).
+After installing this plugin, the user can instantly lock their FM-DX server's tuning at any time using the `?LockKey=` argument (case-insensitive), followed by their "Tune" Password (previously configured in the server's administration interface).
 <br>
 <br>
 Example: `https://mytefwebserver.com/?LockKey=tunepassword123`
