@@ -46,4 +46,4 @@ All you need to do now is use the `?LockKey=` argument in the URL, followed by y
 <br>
 <i>Note: It is perfectly normal not to see an icon in the plugin table at the top of your server's main page.
 <br>
-The plugin is designed to be discreet.
+The plugin is designed to be discreet.</i>
