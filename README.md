@@ -42,3 +42,8 @@ These logs also include unsuccessful attempts to lock the tuning with an incorre
 6 - Restart your FM-DX webserver again. You should see in the console that the plugin has loaded successfully.
 <br>
 All you need to do now is use the `?LockKey=` argument in the URL, followed by your "Tune" password to lock the tuning.
+<br>
+<br>
+<i>Note: It is perfectly normal not to see an icon appear in the plugin table at the top of your server's main page.
+<br>
+The plugin's presence is intended to be "discreet".</i>
