@@ -12,7 +12,7 @@ After installing this plugin, the user can instantly lock their FM-DX server's t
 Example: `https://mytefwebserver.com/?LockKey=tunepassword123`
 <br>
 <br>
-For example, a practical use case is for a user to add a bookmark to their web browser with the argument `LockKey=`, which will lock the server immediately upon access. They will then be the only one able to control the server, since the connection to the server interface with the Tuning privileges is automated.
+For example, a practical use case is for a user to add a bookmark to their web browser with the argument `?LockKey=`, which will lock the server immediately upon access. They will then be the only one able to control the server, since the connection to the server interface with the Tuning privileges is automated.
 <br>
 <br>
 The server's tuning will automatically unlock 10 seconds after the user who used the argument logs out.
