@@ -15,7 +15,7 @@ Example: `https://mytefwebserver.com/?LockKey=tunepassword123`
 For example, a practical use case is for a user to add a bookmark to their web browser with the argument `?LockKey=`, which will lock the server immediately upon access. They will then be the only one able to control the server, since the connection to the server interface with the Tuning privileges is automated.
 <br>
 <br>
-The server's tuning will automatically unlock 10 seconds after the user who used the argument logs out / leaves the server.
+The server's tuning will automatically unlock 10 seconds after the user who used the argument leaves the server.
 <br>
 <br>
 The plugin keeps track of activations and deactivations by writing logs to the console.
