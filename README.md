@@ -21,9 +21,9 @@ The plugin keeps track of activations and deactivations by writing logs to the c
 These logs also include unsuccessful attempts to lock the tuning with an incorrect key, along with the IP address of the user who used the argument.
 
 ## Installation instructions
-
 <b>⚠️ Important: Make sure you have configured a "Tune" password beforehand in the admin interface of your FM-DX server, otherwise the plugin will not work!</b>
-
+<br>
+<br>
 1 - [Download the entire repository as a ZIP file by clicking here.](https://github.com/LucasGallone/FMDX_AutoLock-Plugin/archive/refs/heads/main.zip)
 <br>
 <br>
